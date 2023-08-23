@@ -1,0 +1,21 @@
+{
+  "name": "challenge-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "vault_init": "ts-node vault_init.ts",
+    "vault_deposit": "ts-node vault_deposit.ts",
+    "vault_withdraw": "ts-node vault_withdraw.ts",
+    "vault_deposit_spl": "ts-node vault_deposit_spl.ts",
+    "vault_withdraw_spl": "ts-node vault_deposit_spl.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/spl-token": "^0.3.8",
+    "@solana/web3.js": "^1.78.4"
+  }
+}

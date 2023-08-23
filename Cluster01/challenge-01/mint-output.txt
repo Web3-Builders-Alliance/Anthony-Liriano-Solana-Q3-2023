@@ -1,0 +1,3 @@
+PublicKey [PublicKey(JAM1kQhFyfXRMyUkoYnokoeLJvqWjiQer58TVvUzBEcD)] {
+  _bn: <BN: fefb88a00cf8e06bb534b5ad49275ff1c555165177314f84c6f0bca93666120e>
+}
